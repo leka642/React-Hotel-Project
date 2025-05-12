@@ -1,0 +1,205 @@
+{
+    "Rooms": [
+      {
+        "room_id": "101",
+      "RoomName": "Standard Single BedRoom",
+      "capacity": 1,
+      "available_dates": [],
+      "Price": 4000,
+      "Description": "Ideal for individual travelers, our single room offers a comfortable and functional space. Equipped with a cozy single bed, a dedicated workspace , and storage, it provides everything you need for a convenient stay.",
+      "src": "/image/DetailRoom-bed1.png",
+      "images": {
+        "main": "/image/DetailRoom-bed1.png",
+        "bed": "/image/wardrobes2.png",
+        "restroom": "/image/Restroom2.png",
+        "balcony": "/image/balcone6.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      
+      },
+      {
+        "room_id": "102",
+      "RoomName": "Standard Double BedRoom",
+      "capacity": 2,
+      "available_dates": [],
+      "Price": 6000,
+      "Description": "Perfect for couples , this inviting bedroom offers a relaxing stay. Featuring a comfortable double bed , it's designed for a restful night. Enjoy your time together in this well-appointed space.",
+      "src": "/image/Main2.png",
+      "images": {
+        "main": "/image/Main2.png",
+        "bed": "/image/wardrobes3.png",
+        "restroom": "/image/Restroom3.png",
+        "balcony": "/image/balcone3.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      },
+      {
+        "room_id": "103",
+      "RoomName": "Four BedRoom",
+      "capacity": 4,
+      "available_dates": [],
+      "Price": 10000,
+      "Description": " Ideal for families, this comfortable bedroom offers ample space for everyone. Featuring  two double beds , individual storage options, and a relaxing ambiance. Enjoy a restful night's sleep in this well-appointed room.",
+      "src": "/image/Main4.png",
+      "images": {
+        "main": "/image/Main4.png",
+        "bed": "/image/wardrobes4.png",
+        "restroom": "/image/Restroom4.png",
+        "balcony": "/image/balcone4.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      },
+      {
+       "room_id": "104",
+      "RoomName": "Trible BedRoom",
+      "capacity": 3,
+      "available_dates": [],
+      "Price": 8000,
+      "Description": "Ideal for small families or groups of friends, this spacious bedroom comfortably accommodates three guests. Featuring  one double bed and one single bed, it offers a pleasant and convenient stay for everyone.",
+      "src": "/image/Main5.png",
+      "images": {
+        "main": "/image/Main5.png",
+        "bed": "/image/wardrobes5.png",
+        "restroom": "/image/Restroom5.png",
+        "balcony": "/image/balcone5.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      },
+      {
+       "room_id": "105",
+      "RoomName": "luxury Double BedRoom",
+      "capacity": 2,
+      "available_dates": [],
+      "Price": 50,
+      "Description": "Our two-person bedroom provides a comfortable for your stay. Available with either a double bed , it includes essential amenities for a pleasant experience whether you're traveling as a couple or with a friend.",
+      "src": "/image/Main6.png",
+      "images": {
+        "main": "/image/Main6.png",
+        "bed": "/image/wardrobes6.png",
+        "restroom": "/image/Restroom6.png",
+        "balcony": "/image/balcone6.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      },
+      {
+        "room_id": "106",
+      "RoomName": "Luxury Triple BedRoom",
+      "capacity": 3,
+      "available_dates": [],
+      "Price": 7500,
+      "Description": " Ideal for small families or groups of friends, this spacious bedroom comfortably accommodates three guests. Featuring three single beds, it offers a pleasant and convenient stay for everyone",
+      "src": "/image/Main7.png",
+      "images": {
+        "main": "/image/Main7.png",
+        "bed": "/image/wardrobes7.png",
+        "restroom": "/image/Restroom7.png",
+        "balcony": "/image/balcone7.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      },
+      {
+        "room_id": "107",
+      "RoomName": "Standard Triple BedRoom",
+      "capacity": 3,
+      "available_dates": [],
+      "Price": 8500,
+      "Description": "Our versatile triple room is designed to comfortably sleep three people. It comes equipped with single bed for three persons to suit your needs. Enjoy a practical and relaxing stay in this well-appointed room.",
+      "src": "/image/Main8.png",
+      "images": {
+        "main": "/image/Main8.png",
+        "bed": "/image/wardrobes8.png",
+        "restroom": "/image/Restroom8.png",
+        "balcony": "/image/balcone8.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      },
+      {
+        "room_id": "108",
+      "RoomName": "Luxurt Four BedRoom",
+      "capacity": 4,
+      "available_dates": [],
+      "Price": 10500,
+      "Description": "Designed with practicality in mind, our four-person bedroom provides a convenient and comfortable stay. Equipped with single bed, and easy access to amenities. This room is a great choice for those traveling together who appreciate functionality and value.",
+      "src": "/image/Main9.png",
+      "images": {
+        "main": "/image/Main9.png",
+        "bed": "/image/wardrobes9.png",
+        "restroom": "/image/Restroom9.png",
+        "balcony": "/image/balcone9.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      },
+      {
+        "room_id": "109",
+      "RoomName": "Five Bedroom",
+      "capacity": 5,
+      "available_dates": [],
+      "Price": 12000,
+      "Description": "Ideal for larger families or groups, this expansive bedroom comfortably accommodates up to five guests. Featuring  two double beds and one single bed, it provides ample space for everyone to relax and enjoy their stay",
+      "src": "/image/Main10.png",
+      "images": {
+        "main": "/image/Main10.png",
+        "bed": "/image/wardrobes10.png",
+        "restroom": "/image/Restroom10.png",
+        "balcony": "/image/balcone10.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      },
+      {
+        "room_id": "110",
+      "RoomName": "Luxury Five BedRoom  ",
+      "capacity": 5,
+      "available_dates": [],
+      "Price": 12000,
+      "Description": "Bring the whole crew! Our five-person bedroom offers a comfortable and convenient space for larger parties. Featuring one king size bed and one queen size bed for five persons, it's designed for a memorable shared stay.",
+      "src": "/image/Main1.png",
+      "images": {
+        "main": "/image/Main1.png",
+        "bed": "/image/wardrobes1.png",
+        "restroom": "/image/Restroom1.png",
+        "balcony": "/image/balcone1.png"
+      },
+      "facilities": ["Double Bed", "Private Bathroom", "Television", "Wireless Internet"]
+      }
+
+      
+    ],
+    "ServicesData" : [
+    
+      { "title": "Invigorating Gym Area", 
+      "description": "State-of-the-art equipment for your fitness needs.", 
+      "icon": "FaDumbbell" },
+        { "title": "Private Swimming Pool", "description": "Relax and unwind in your exclusive pool.", "icon": "FaSwimmingPool" },
+        { "title": "Elegant Bar & Lounge", "description": "Enjoy crafted cocktails in a sophisticated setting.", "icon": "FaCocktail" },
+        { "title": "Rejuvenating Spa", "description": "Indulge in treatments designed for ultimate relaxation.", "icon": "FaSpa" },
+        { "title": "Gourmet Dining", "description": "Savor exquisite culinary creations.", "icon": "FaUtensils" }
+       
+    ],
+    
+    "testimonials" : [
+      {
+        "name": "Alice",
+        "image": "/image/Alice.png", 
+        "text": "The service was excellent! I really enjoyed my stay and would highly recommend it to others.",
+        "rating": "5" 
+      },
+      {
+        "name": "Brath",
+        "image": "/image/Barath.png",
+        "text": "Absolutely fantastic stay! The service was top-notch, making my experience truly enjoyable.",
+        "rating": "5" 
+      },
+      {
+        "name": "sara",
+        "image": "/image/Sara.png",
+        "text": "Excellent hotel, I loved my time here The service was great, no complaints at all",
+        "rating": "5" 
+      },
+      {
+        "name": "jenni",
+        "image": "/image/Jenni.png",
+        "text": "A wonderful hotel! The rooms were so comfortable and the staff were so friendly ",
+        "rating": "5" 
+      }
+    ]
+  }

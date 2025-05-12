@@ -1,0 +1,121 @@
+body{
+  width: 100%;
+  margin: 0 auto;
+}
+
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+
+nav{
+  z-index: 999 !important;
+  padding: 0px 9%;
+  background-color: #073e3f86;
+  width: 100%;
+  backdrop-filter: blur(10px);
+  height: 80px;
+}
+
+
+.logo-container {
+  padding: 10px 13%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 1em;
+}
+
+nav ul li a{
+  color: #000;
+}
+
+nav ul li a:hover{
+  color: aquamarine;
+
+}
+
+.menu-icon {
+  display: none;
+  cursor: pointer;
+}
+
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: black;
+  margin: 5px 0;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.nav-links.visible {
+  flex-direction: column;
+  position: absolute;
+  top: 50px;
+  right: 0;
+  width: 100%;
+  background-color: rgb(7, 7, 70);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s ease-in-out;
+}
+.logo-Link{
+  width: 50px;
+  border-radius: 50px; /* Example: Add rounded corners */
+  box-shadow: 2px 3px 5px rgb(9, 237, 199); /* Example: Add a subtle shadow */
+}
+@media screen and (max-width: 768px){
+  .menu-icon {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  .nav-links.visible {
+    display: flex;
+    background: rgb(2, 2, 52);
+    z-index: 1000;
+    padding: 20px 0;
+  }
+
+  .navbar{
+    background:#073e3f86;
+    backdrop-filter: blur(10px);
+    padding: 10px 8%;
+  }
+
+  nav ul li a{
+    color: #fff;
+  }
+
+  .bar{
+    background: black;
+  }
+  
+  .menu-container{
+    margin: 20px 0;
+  }
+  .menu-header{
+    justify-content: flex-start;
+  }
+
+  .menu-items{
+    width: 100%;
+  }
+
+}
+"https://static.vecteezy.com/system/resources/previews/007/497/955/original/letter-l-logo-design-free-vector.jpg
