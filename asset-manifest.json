@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Hotel-Project/static/css/main.c13e2bc8.css",
-    "main.js": "/React-Hotel-Project/static/js/main.15cd6638.js",
+    "main.js": "/React-Hotel-Project/static/js/main.eb11af12.js",
     "static/js/453.3c5d7739.chunk.js": "/React-Hotel-Project/static/js/453.3c5d7739.chunk.js",
     "index.html": "/React-Hotel-Project/index.html",
     "main.c13e2bc8.css.map": "/React-Hotel-Project/static/css/main.c13e2bc8.css.map",
-    "main.15cd6638.js.map": "/React-Hotel-Project/static/js/main.15cd6638.js.map",
+    "main.eb11af12.js.map": "/React-Hotel-Project/static/js/main.eb11af12.js.map",
     "453.3c5d7739.chunk.js.map": "/React-Hotel-Project/static/js/453.3c5d7739.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c13e2bc8.css",
-    "static/js/main.15cd6638.js"
+    "static/js/main.eb11af12.js"
   ]
 }
